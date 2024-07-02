@@ -1,6 +1,8 @@
+![I am a Front End Web Developer.](https://images.unsplash.com/photo-1635875060146-80ec95d47043?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnxlOVVvLXJCVDAwa3x8ZW58MHx8fHx8)
+
+
 ### Hi there 👋, I'm Pradip
 #### I am a Front End Web Developer.
-![I am a Front End Web Developer.](https://images.unsplash.com/photo-1635875060146-80ec95d47043?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnxlOVVvLXJCVDAwa3x8ZW58MHx8fHx8)
 
 I'm a passionate Front End Web Developer with a strong HTML, CSS, and JavaScript foundation. My journey has led me to specialize in creating responsive, user-friendly web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I'm dedicated to continuous learning and am always eager to take on new challenges. Let's build something amazing together!
 
